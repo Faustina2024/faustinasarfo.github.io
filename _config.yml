@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Faustina
-middle_name: Serwaa
-last_name: Sarfo
+first_name: "Faustina"
+middle_name: "Serwaa"
+last_name: "Sarfo"
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: "Ph.D. Student in Industrial Engineering & Operations Research at UMass Amherst. Equitable energy transitions; power systems modeling (GenX); community-based energy planning."
